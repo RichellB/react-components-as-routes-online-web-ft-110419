@@ -14,6 +14,5 @@ ReactDOM.render((
   <Router>
     <Route path="/" component={Home} />
   </Router>),
-  <Home />,
   document.getElementById('root')
 );
